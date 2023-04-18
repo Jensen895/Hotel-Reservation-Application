@@ -1,8 +1,8 @@
 # Hotel-Reservation-Application
 ***Project from the Udacity course: [JAVA Programming Course](https://www.udacity.com/course/java-programming-nanodegree--nd079).***
 
-This is a JAVA application that allows users to reserve a hotel room based on the desired check-in and check-out date.
-Admin services such as managing the rooms and customers are also included.
+This is a JAVA application that allows users to reserve a hotel room based on the desired check-in and check-out date and enable the admin to manage the customers and rooms.
+
 
 ## User Scenarios
 The application provides four user scenarios:
